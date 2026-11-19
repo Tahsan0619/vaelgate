@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Vaelgate · Rise of the Guild</title>
+  <meta name="description" content="Vaelgate: Rise of the Guild. Register at the Guild Center, clear ranked dungeon gates, manage hunger, and earn every promotion." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Source+Sans+3:wght@500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="game"></canvas>
+  <div id="labels"></div>
+  <div id="fade"></div>
+  <div id="dmg"></div>
+
+  <div id="hud" class="hidden">
+    <div class="card me">
+      <div class="me-top">
+        <span class="avatar" id="hAvatar"></span>
+        <div class="me-name"><b id="hName">Adventurer</b><small id="hClass">Unregistered</small></div>
+        <span class="rank" id="hRank">F</span>
+      </div>
+      <div class="me-row">
+        <span class="lv" id="hLevel">Lv 1</span>
+        <span class="gold" id="hGold">0 G</span>
+        <span id="hLoc">Aurelmere</span>
+      </div>
+      <div class="bars">
+        <div class="bar hp"><span>HP</span><i><s id="hHp"></s></i><em id="hHpT">0/0</em></div>
+        <div class="bar sta"><span>STA</span><i><s id="hSta"></s></i><em id="hStaT">0/0</em></div>
+        <div class="bar mana"><span>MP</span><i><s id="hMana"></s></i><em id="hManaT">0/0</em></div>
+        <div class="bar hunger"><span>FOOD</span><i><s id="hHunger"></s></i><em id="hHungerT">100</em></div>
+      </div>
+    </div>
+
+    <div class="goal" id="hGoal">
+      <span class="goal-tag">GOAL</span>
+      <div class="goal-text"><b id="gText"></b><small id="gHint"></small></div>
+      <div class="goal-nav hidden" id="gNav"><span id="gArrow" class="goal-arrow"></span><em id="gDist"></em></div>
+    </div>
+
+    <div class="floor-hud hidden" id="floorHud">
+      <b id="fName">Mossroot Burrow</b>
+      <span id="fFloor">Floor 1 / 5</span>
+      <small id="fSeal">Seal: clear monsters</small>
+    </div>
+
+    <div class="bossbar hidden" id="bossBar">
+      <b id="bossName">Boss</b>
+      <i><s id="bossFill"></s></i>
+      <em id="bossPct">100%</em>
+    </div>
+
+    <div class="hotbar" id="hotbar">
+      <button class="slot atk" data-act="attack" title="Basic attack"><kbd>J</kbd><span id="skAtk" class="slot-ico"></span><small>Attack</small><em class="cd-num" id="cdAtk"></em></button>
+      <button class="slot" data-skill="0" title="Skill 1"><kbd>1</kbd><span id="sk0" class="slot-ico"></span><small id="skLab0"></small><em class="cd-num" id="cd0"></em></button>
+      <button class="slot" data-skill="1" title="Skill 2"><kbd>2</kbd><span id="sk1" class="slot-ico"></span><small id="skLab1"></small><em class="cd-num" id="cd1"></em></button>
+      <button class="slot" data-skill="2" title="Skill 3"><kbd>3</kbd><span id="sk2" class="slot-ico"></span><small id="skLab2"></small><em class="cd-num" id="cd2"></em></button>
+      <button class="slot use" data-act="use" title="Interact"><kbd>E</kbd><span class="slot-ico" id="icoUse"></span><small>Use</small></button>
+      <button class="slot" data-act="inv" title="Inventory"><kbd>I</kbd><span class="slot-ico" id="icoBag"></span><small>Bag</small></button>
+      <button class="slot" data-act="skills" title="Skill order"><kbd>K</kbd><span class="slot-ico" id="icoSkills"></span><small>Skills</small></button>
+    </div>
+
+    <div class="prompt hidden" id="prompt">
+      <kbd id="pKey">E</kbd>
+      <div><b id="pText"></b><small id="pSub">Press E to interact</small></div>
+    </div>
+
+    <div class="toasts" id="toasts"></div>
+
+    <div class="top-btns">
+      <button type="button" class="round" id="btnMap" title="World map (M)"><span class="ri" id="icoMap"></span><span>Map</span></button>
+      <button type="button" class="round" id="btnCard" title="Adventurer Card (C)"><span class="ri" id="icoCard"></span><span>Card</span></button>
+      <button type="button" class="round" id="btnRank" title="Rank progress (G)"><span class="ri" id="icoRank"></span><span>Rank</span></button>
+      <button type="button" class="round" id="btnMenu" title="Menu (P)"><span class="ri" id="icoMenu"></span><span>Menu</span></button>
+    </div>
+
+    <div class="touch">
+      <div class="stick" id="stickPad"><div class="knob" id="stickKnob"></div></div>
+      <div class="touch-acts">
+        <button class="use-btn" data-act="attack">J<small>Attack</small></button>
+        <button class="use-btn" data-act="dodge">L<small>Dodge</small></button>
+        <button class="use-btn" data-act="use">E<small>Use</small></button>
+      </div>
+    </div>
+  </div>
+
+  <div id="title" class="screen">
+    <div class="title-bg"></div>
+    <div class="title-card">
+      <p class="eyebrow">Every gate has a rank. Every rank has a price.</p>
+      <h1>Vaelgate</h1>
+      <p class="sub">Rise of the Guild</p>
+      <p class="lead">Arrive in Aurelmere as a nobody. Register at the Guild, clear ranked dungeon gates, and earn every promotion yourself.</p>
+      <div class="title-actions">
+        <button class="btn primary" id="newBtn">Create Adventurer</button>
+        <button class="btn ghost hidden" id="continueBtn">Continue</button>
+      </div>
+      <p class="credit"><a href="https://babuntooacademy.com" target="_blank" rel="noopener">Made by Tahsan ↗</a></p>
+    </div>
+  </div>
+
+  <div id="creator" class="screen hidden">
+    <div class="sheet creator-sheet">
+      <header>
+        <h2>Character Creation</h2>
+        <p>Simple choices. Balanced classes. No unplayable builds.</p>
+      </header>
+      <div class="creator-grid">
+        <aside class="creator-aside">
+          <div class="creator-preview" id="creatorPreview"></div>
+          <div class="creator-class-info" id="creatorClassInfo"></div>
+        </aside>
+        <div class="creator-form">
+          <label>Name <input id="cName" maxlength="16" placeholder="3 to 16 letters" autocomplete="off" /></label>
+          <label>Body
+            <select id="cBody"><option value="m">Male</option><option value="f">Female</option></select>
+          </label>
+          <label>Skin
+            <select id="cSkin"></select>
+          </label>
+          <label>Hair
+            <select id="cHair"></select>
+          </label>
+          <label>Hair color
+            <select id="cHairColor"></select>
+          </label>
+          <div class="apt">
+            <b>Aptitude Test</b>
+            <p id="aptQ"></p>
+            <div class="apt-opts" id="aptOpts"></div>
+            <small id="aptRec">Answer the questions for a class recommendation, or pick any class below.</small>
+          </div>
+          <div class="class-grid" id="classGrid"></div>
+        </div>
+      </div>
+      <footer>
+        <button class="btn ghost" id="cBack">Back</button>
+        <button class="btn primary" id="cConfirm">Enter Aurelmere</button>
+      </footer>
+    </div>
+  </div>
+
+  <div id="sheet" class="sheet hidden"></div>
+  <div id="pause" class="screen hidden">
+    <div class="sheet small">
+      <h2>Paused</h2>
+      <p>Vaelgate · Rise of the Guild</p>
+      <button class="btn primary" data-pause="resume">Resume</button>
+      <button class="btn" data-pause="save">Save Progress</button>
+      <button class="btn ghost" data-pause="title">Return to Title</button>
+      <p class="credit"><a href="https://babuntooacademy.com" target="_blank" rel="noopener">Made by Tahsan ↗</a></p>
+    </div>
+  </div>
+
+  <script src="dist/game.js"></script>
+</body>
+</html>

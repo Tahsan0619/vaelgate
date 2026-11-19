@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Club.glb",
+    "path": "public/glb/single_knight_pack/Club.glb",
+    "sha": "816556242ed4a17d09cfa63f6bc089bbd7be2679",
+    "size": 36920,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Club.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Club.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/816556242ed4a17d09cfa63f6bc089bbd7be2679",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/Club.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Club.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/816556242ed4a17d09cfa63f6bc089bbd7be2679",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Club.glb"
+    }
+  },
+  {
+    "name": "Helmet1.glb",
+    "path": "public/glb/single_knight_pack/Helmet1.glb",
+    "sha": "2fa6eb8c9e47ba69b9a8d4c855ee57d405359647",
+    "size": 52316,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Helmet1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Helmet1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2fa6eb8c9e47ba69b9a8d4c855ee57d405359647",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/Helmet1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Helmet1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2fa6eb8c9e47ba69b9a8d4c855ee57d405359647",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Helmet1.glb"
+    }
+  },
+  {
+    "name": "Helmet2.glb",
+    "path": "public/glb/single_knight_pack/Helmet2.glb",
+    "sha": "6d0ba20dc565309abb4db5e8d98fa214010625a9",
+    "size": 44536,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Helmet2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Helmet2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6d0ba20dc565309abb4db5e8d98fa214010625a9",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/Helmet2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Helmet2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6d0ba20dc565309abb4db5e8d98fa214010625a9",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Helmet2.glb"
+    }
+  },
+  {
+    "name": "Helmet3.glb",
+    "path": "public/glb/single_knight_pack/Helmet3.glb",
+    "sha": "a48050e45cf2f7b335d8815eb3a5491993582631",
+    "size": 62256,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Helmet3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Helmet3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a48050e45cf2f7b335d8815eb3a5491993582631",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/Helmet3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Helmet3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a48050e45cf2f7b335d8815eb3a5491993582631",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Helmet3.glb"
+    }
+  },
+  {
+    "name": "Katana.glb",
+    "path": "public/glb/single_knight_pack/Katana.glb",
+    "sha": "8df09f3f8f952df02d6dc8709fee635e7e2d3e70",
+    "size": 39876,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Katana.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Katana.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8df09f3f8f952df02d6dc8709fee635e7e2d3e70",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/Katana.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Katana.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8df09f3f8f952df02d6dc8709fee635e7e2d3e70",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Katana.glb"
+    }
+  },
+  {
+    "name": "KnightCharacter.glb",
+    "path": "public/glb/single_knight_pack/KnightCharacter.glb",
+    "sha": "7d9d84494cbd064c48b0bccf10c548a788edf11a",
+    "size": 393060,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/KnightCharacter.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/KnightCharacter.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7d9d84494cbd064c48b0bccf10c548a788edf11a",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/KnightCharacter.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/KnightCharacter.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7d9d84494cbd064c48b0bccf10c548a788edf11a",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/KnightCharacter.glb"
+    }
+  },
+  {
+    "name": "ShortSword.glb",
+    "path": "public/glb/single_knight_pack/ShortSword.glb",
+    "sha": "2da92f68142a375250bcdf5c2d2d6e4a7270bc5e",
+    "size": 39988,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/ShortSword.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/ShortSword.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2da92f68142a375250bcdf5c2d2d6e4a7270bc5e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/ShortSword.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/ShortSword.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2da92f68142a375250bcdf5c2d2d6e4a7270bc5e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/ShortSword.glb"
+    }
+  },
+  {
+    "name": "ShoulderPads.glb",
+    "path": "public/glb/single_knight_pack/ShoulderPads.glb",
+    "sha": "9a94bd5bb843dac8801d45f5fb6762b0167f04d9",
+    "size": 10476,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/ShoulderPads.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/ShoulderPads.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/9a94bd5bb843dac8801d45f5fb6762b0167f04d9",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/ShoulderPads.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/ShoulderPads.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/9a94bd5bb843dac8801d45f5fb6762b0167f04d9",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/ShoulderPads.glb"
+    }
+  },
+  {
+    "name": "Sword.glb",
+    "path": "public/glb/single_knight_pack/Sword.glb",
+    "sha": "87c7930e843d37c1158107054abe79d8653100ab",
+    "size": 41252,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Sword.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Sword.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/87c7930e843d37c1158107054abe79d8653100ab",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/single_knight_pack/Sword.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/single_knight_pack/Sword.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/87c7930e843d37c1158107054abe79d8653100ab",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/single_knight_pack/Sword.glb"
+    }
+  }
+]

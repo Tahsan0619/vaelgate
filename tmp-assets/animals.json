@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Alpaca.glb",
+    "path": "public/glb/animals_pack/Alpaca.glb",
+    "sha": "792a5519086eaa185a6c8041292273f1b43e1534",
+    "size": 647464,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Alpaca.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Alpaca.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/792a5519086eaa185a6c8041292273f1b43e1534",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Alpaca.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Alpaca.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/792a5519086eaa185a6c8041292273f1b43e1534",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Alpaca.glb"
+    }
+  },
+  {
+    "name": "Bull.glb",
+    "path": "public/glb/animals_pack/Bull.glb",
+    "sha": "8f8e87107de3a257cff99566693aa545fe41cbd7",
+    "size": 647140,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Bull.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Bull.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8f8e87107de3a257cff99566693aa545fe41cbd7",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Bull.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Bull.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8f8e87107de3a257cff99566693aa545fe41cbd7",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Bull.glb"
+    }
+  },
+  {
+    "name": "Cow.glb",
+    "path": "public/glb/animals_pack/Cow.glb",
+    "sha": "04ea9fa6880c94dfa58e2790e96cc80df7bfe664",
+    "size": 643984,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Cow.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Cow.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/04ea9fa6880c94dfa58e2790e96cc80df7bfe664",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Cow.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Cow.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/04ea9fa6880c94dfa58e2790e96cc80df7bfe664",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Cow.glb"
+    }
+  },
+  {
+    "name": "Deer.glb",
+    "path": "public/glb/animals_pack/Deer.glb",
+    "sha": "0c1a5a5d55ec13ca7899dd3a57256724cd9fca4e",
+    "size": 662108,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Deer.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Deer.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0c1a5a5d55ec13ca7899dd3a57256724cd9fca4e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Deer.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Deer.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0c1a5a5d55ec13ca7899dd3a57256724cd9fca4e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Deer.glb"
+    }
+  },
+  {
+    "name": "Donkey.glb",
+    "path": "public/glb/animals_pack/Donkey.glb",
+    "sha": "b52459dca0873eeff89332e4af8fc03a97a7c83e",
+    "size": 667168,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Donkey.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Donkey.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/b52459dca0873eeff89332e4af8fc03a97a7c83e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Donkey.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Donkey.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/b52459dca0873eeff89332e4af8fc03a97a7c83e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Donkey.glb"
+    }
+  },
+  {
+    "name": "Fox.glb",
+    "path": "public/glb/animals_pack/Fox.glb",
+    "sha": "4b9e53701955206f394e3ebfd12831d74e0e3d31",
+    "size": 590112,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Fox.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Fox.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4b9e53701955206f394e3ebfd12831d74e0e3d31",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Fox.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Fox.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4b9e53701955206f394e3ebfd12831d74e0e3d31",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Fox.glb"
+    }
+  },
+  {
+    "name": "Horse.glb",
+    "path": "public/glb/animals_pack/Horse.glb",
+    "sha": "c93b598005fd4a6163f12782eeb31b10b6e4bc48",
+    "size": 682356,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Horse.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Horse.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c93b598005fd4a6163f12782eeb31b10b6e4bc48",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Horse.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Horse.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c93b598005fd4a6163f12782eeb31b10b6e4bc48",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Horse.glb"
+    }
+  },
+  {
+    "name": "Horse_White.glb",
+    "path": "public/glb/animals_pack/Horse_White.glb",
+    "sha": "43a357043f44d585328beeb590813b08c01f8d1b",
+    "size": 682260,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Horse_White.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Horse_White.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/43a357043f44d585328beeb590813b08c01f8d1b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Horse_White.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Horse_White.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/43a357043f44d585328beeb590813b08c01f8d1b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Horse_White.glb"
+    }
+  },
+  {
+    "name": "Husky.glb",
+    "path": "public/glb/animals_pack/Husky.glb",
+    "sha": "1e93d4432adbc6ba85bca43f0af4771f9c20e821",
+    "size": 577176,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Husky.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Husky.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1e93d4432adbc6ba85bca43f0af4771f9c20e821",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Husky.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Husky.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1e93d4432adbc6ba85bca43f0af4771f9c20e821",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Husky.glb"
+    }
+  },
+  {
+    "name": "ShibaInu.glb",
+    "path": "public/glb/animals_pack/ShibaInu.glb",
+    "sha": "021a72f7b781bf7a0e62a6000966c253970e5897",
+    "size": 540592,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/ShibaInu.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/ShibaInu.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/021a72f7b781bf7a0e62a6000966c253970e5897",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/ShibaInu.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/ShibaInu.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/021a72f7b781bf7a0e62a6000966c253970e5897",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/ShibaInu.glb"
+    }
+  },
+  {
+    "name": "Stag.glb",
+    "path": "public/glb/animals_pack/Stag.glb",
+    "sha": "18927223c253a8ac497a442c1a419d3c287fb84c",
+    "size": 685176,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Stag.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Stag.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/18927223c253a8ac497a442c1a419d3c287fb84c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Stag.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Stag.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/18927223c253a8ac497a442c1a419d3c287fb84c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Stag.glb"
+    }
+  },
+  {
+    "name": "Wolf.glb",
+    "path": "public/glb/animals_pack/Wolf.glb",
+    "sha": "c54b02936167a3b0d9a7e8d467432ba4fa788d6b",
+    "size": 608660,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Wolf.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Wolf.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c54b02936167a3b0d9a7e8d467432ba4fa788d6b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/animals_pack/Wolf.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/animals_pack/Wolf.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c54b02936167a3b0d9a7e8d467432ba4fa788d6b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/animals_pack/Wolf.glb"
+    }
+  }
+]

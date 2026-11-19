@@ -1,0 +1,1698 @@
+[
+  {
+    "name": "Armor_Black.glb",
+    "path": "public/glb/rpg_items_pack/Armor_Black.glb",
+    "sha": "8cd52f3073e32f04d4129a97a96230552dcdafe0",
+    "size": 59116,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Black.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Black.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8cd52f3073e32f04d4129a97a96230552dcdafe0",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Armor_Black.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Black.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8cd52f3073e32f04d4129a97a96230552dcdafe0",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Black.glb"
+    }
+  },
+  {
+    "name": "Armor_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Armor_Golden.glb",
+    "sha": "c06577b4bc47644ccb44ce9fd4ccc4aee96a9b91",
+    "size": 58064,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c06577b4bc47644ccb44ce9fd4ccc4aee96a9b91",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Armor_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c06577b4bc47644ccb44ce9fd4ccc4aee96a9b91",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Golden.glb"
+    }
+  },
+  {
+    "name": "Armor_Leather.glb",
+    "path": "public/glb/rpg_items_pack/Armor_Leather.glb",
+    "sha": "4865213b3f452d4d0d6ba1850c29d9c9383e3573",
+    "size": 17452,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Leather.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Leather.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4865213b3f452d4d0d6ba1850c29d9c9383e3573",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Armor_Leather.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Leather.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4865213b3f452d4d0d6ba1850c29d9c9383e3573",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Leather.glb"
+    }
+  },
+  {
+    "name": "Armor_Metal.glb",
+    "path": "public/glb/rpg_items_pack/Armor_Metal.glb",
+    "sha": "34d3517b14b56fbdc9e71f9bb705f52653f9b61b",
+    "size": 33440,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Metal.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Metal.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/34d3517b14b56fbdc9e71f9bb705f52653f9b61b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Armor_Metal.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Metal.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/34d3517b14b56fbdc9e71f9bb705f52653f9b61b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Metal.glb"
+    }
+  },
+  {
+    "name": "Armor_Metal2.glb",
+    "path": "public/glb/rpg_items_pack/Armor_Metal2.glb",
+    "sha": "3f33bd769f7d94d9ce43d7e9d72e73b2c7abb942",
+    "size": 39920,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Metal2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Metal2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3f33bd769f7d94d9ce43d7e9d72e73b2c7abb942",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Armor_Metal2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Armor_Metal2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3f33bd769f7d94d9ce43d7e9d72e73b2c7abb942",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Armor_Metal2.glb"
+    }
+  },
+  {
+    "name": "Arrow.glb",
+    "path": "public/glb/rpg_items_pack/Arrow.glb",
+    "sha": "7f542fdc1af6dbac55c545a0bf66c6ca77c2d03a",
+    "size": 16836,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Arrow.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Arrow.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7f542fdc1af6dbac55c545a0bf66c6ca77c2d03a",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Arrow.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Arrow.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7f542fdc1af6dbac55c545a0bf66c6ca77c2d03a",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Arrow.glb"
+    }
+  },
+  {
+    "name": "Arrow_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Arrow_Golden.glb",
+    "sha": "c903c80d48b5f166f3482ab9974abbb1dc27a7d6",
+    "size": 14756,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Arrow_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Arrow_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c903c80d48b5f166f3482ab9974abbb1dc27a7d6",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Arrow_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Arrow_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c903c80d48b5f166f3482ab9974abbb1dc27a7d6",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Arrow_Golden.glb"
+    }
+  },
+  {
+    "name": "Axe_Double.glb",
+    "path": "public/glb/rpg_items_pack/Axe_Double.glb",
+    "sha": "5512547c79d0572f3d4c8cd1255fca892260b45d",
+    "size": 84232,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_Double.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_Double.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5512547c79d0572f3d4c8cd1255fca892260b45d",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Axe_Double.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_Double.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5512547c79d0572f3d4c8cd1255fca892260b45d",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_Double.glb"
+    }
+  },
+  {
+    "name": "Axe_Double_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Axe_Double_Golden.glb",
+    "sha": "dffc48530458679e5e29c7fca9589f2f439fc5f6",
+    "size": 84244,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_Double_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_Double_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/dffc48530458679e5e29c7fca9589f2f439fc5f6",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Axe_Double_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_Double_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/dffc48530458679e5e29c7fca9589f2f439fc5f6",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_Double_Golden.glb"
+    }
+  },
+  {
+    "name": "Axe_small.glb",
+    "path": "public/glb/rpg_items_pack/Axe_small.glb",
+    "sha": "391d4b188bc255b862c38b04c024bfb0bbd9c1a2",
+    "size": 54604,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_small.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_small.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/391d4b188bc255b862c38b04c024bfb0bbd9c1a2",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Axe_small.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_small.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/391d4b188bc255b862c38b04c024bfb0bbd9c1a2",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_small.glb"
+    }
+  },
+  {
+    "name": "Axe_small_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Axe_small_Golden.glb",
+    "sha": "2b0d785b800680ccc9fec4afc6e290f40f41aff7",
+    "size": 54616,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_small_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_small_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2b0d785b800680ccc9fec4afc6e290f40f41aff7",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Axe_small_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Axe_small_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2b0d785b800680ccc9fec4afc6e290f40f41aff7",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Axe_small_Golden.glb"
+    }
+  },
+  {
+    "name": "Backpack.glb",
+    "path": "public/glb/rpg_items_pack/Backpack.glb",
+    "sha": "989c469bf4ee2df683f98d3717405bd7d2b912aa",
+    "size": 217084,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Backpack.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Backpack.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/989c469bf4ee2df683f98d3717405bd7d2b912aa",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Backpack.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Backpack.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/989c469bf4ee2df683f98d3717405bd7d2b912aa",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Backpack.glb"
+    }
+  },
+  {
+    "name": "Bag.glb",
+    "path": "public/glb/rpg_items_pack/Bag.glb",
+    "sha": "3ba1e20606064e59add6fdaa14c5ad0c4c2d3918",
+    "size": 70352,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bag.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bag.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3ba1e20606064e59add6fdaa14c5ad0c4c2d3918",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Bag.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bag.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3ba1e20606064e59add6fdaa14c5ad0c4c2d3918",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bag.glb"
+    }
+  },
+  {
+    "name": "Bone.glb",
+    "path": "public/glb/rpg_items_pack/Bone.glb",
+    "sha": "8ab2cd3fdf1ecaa8285fdc66cde96b7734925b4c",
+    "size": 17192,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bone.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bone.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8ab2cd3fdf1ecaa8285fdc66cde96b7734925b4c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Bone.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bone.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8ab2cd3fdf1ecaa8285fdc66cde96b7734925b4c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bone.glb"
+    }
+  },
+  {
+    "name": "Book1_Closed.glb",
+    "path": "public/glb/rpg_items_pack/Book1_Closed.glb",
+    "sha": "175d30d5d5a99e37586de42c4b6f649d8f549a99",
+    "size": 17416,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book1_Closed.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book1_Closed.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/175d30d5d5a99e37586de42c4b6f649d8f549a99",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book1_Closed.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book1_Closed.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/175d30d5d5a99e37586de42c4b6f649d8f549a99",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book1_Closed.glb"
+    }
+  },
+  {
+    "name": "Book1_Open.glb",
+    "path": "public/glb/rpg_items_pack/Book1_Open.glb",
+    "sha": "2dcc875df7b0f5a96fb43c87e2a141f5169e81bd",
+    "size": 25168,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book1_Open.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book1_Open.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2dcc875df7b0f5a96fb43c87e2a141f5169e81bd",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book1_Open.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book1_Open.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2dcc875df7b0f5a96fb43c87e2a141f5169e81bd",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book1_Open.glb"
+    }
+  },
+  {
+    "name": "Book2_Closed.glb",
+    "path": "public/glb/rpg_items_pack/Book2_Closed.glb",
+    "sha": "fe013d3b519b7c7ad09e76fb5bd12c5ceca881bb",
+    "size": 21344,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book2_Closed.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book2_Closed.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fe013d3b519b7c7ad09e76fb5bd12c5ceca881bb",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book2_Closed.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book2_Closed.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fe013d3b519b7c7ad09e76fb5bd12c5ceca881bb",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book2_Closed.glb"
+    }
+  },
+  {
+    "name": "Book2_Open.glb",
+    "path": "public/glb/rpg_items_pack/Book2_Open.glb",
+    "sha": "eae95790bb8d6fbc37b2f93a34ac6096469883c5",
+    "size": 34976,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book2_Open.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book2_Open.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/eae95790bb8d6fbc37b2f93a34ac6096469883c5",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book2_Open.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book2_Open.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/eae95790bb8d6fbc37b2f93a34ac6096469883c5",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book2_Open.glb"
+    }
+  },
+  {
+    "name": "Book3_Closed.glb",
+    "path": "public/glb/rpg_items_pack/Book3_Closed.glb",
+    "sha": "251fac2caf95acc9f342d9c48b9e5bd71a4934de",
+    "size": 61620,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book3_Closed.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book3_Closed.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/251fac2caf95acc9f342d9c48b9e5bd71a4934de",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book3_Closed.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book3_Closed.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/251fac2caf95acc9f342d9c48b9e5bd71a4934de",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book3_Closed.glb"
+    }
+  },
+  {
+    "name": "Book3_Open.glb",
+    "path": "public/glb/rpg_items_pack/Book3_Open.glb",
+    "sha": "cf0a94f0da1cacb287b91d260c067ff4adad472d",
+    "size": 29044,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book3_Open.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book3_Open.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/cf0a94f0da1cacb287b91d260c067ff4adad472d",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book3_Open.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book3_Open.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/cf0a94f0da1cacb287b91d260c067ff4adad472d",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book3_Open.glb"
+    }
+  },
+  {
+    "name": "Book4_Closed.glb",
+    "path": "public/glb/rpg_items_pack/Book4_Closed.glb",
+    "sha": "1773b70ebef47540d44273f560366e59922c3cea",
+    "size": 40448,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book4_Closed.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book4_Closed.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1773b70ebef47540d44273f560366e59922c3cea",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book4_Closed.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book4_Closed.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1773b70ebef47540d44273f560366e59922c3cea",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book4_Closed.glb"
+    }
+  },
+  {
+    "name": "Book4_Open.glb",
+    "path": "public/glb/rpg_items_pack/Book4_Open.glb",
+    "sha": "7d1cb6e518acf4803be950888dc1c44833d1549e",
+    "size": 27080,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book4_Open.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book4_Open.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7d1cb6e518acf4803be950888dc1c44833d1549e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Book4_Open.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Book4_Open.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7d1cb6e518acf4803be950888dc1c44833d1549e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Book4_Open.glb"
+    }
+  },
+  {
+    "name": "Bow_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Bow_Golden.glb",
+    "sha": "0f9e35da90d09787b17947913a441a5148a9d6a7",
+    "size": 45460,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bow_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bow_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0f9e35da90d09787b17947913a441a5148a9d6a7",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Bow_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bow_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0f9e35da90d09787b17947913a441a5148a9d6a7",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bow_Golden.glb"
+    }
+  },
+  {
+    "name": "Bow_Wooden.glb",
+    "path": "public/glb/rpg_items_pack/Bow_Wooden.glb",
+    "sha": "0de4d56d126278beb4f41a6c8c77ec148197a55b",
+    "size": 39108,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bow_Wooden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bow_Wooden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0de4d56d126278beb4f41a6c8c77ec148197a55b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Bow_Wooden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Bow_Wooden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0de4d56d126278beb4f41a6c8c77ec148197a55b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Bow_Wooden.glb"
+    }
+  },
+  {
+    "name": "Chalice.glb",
+    "path": "public/glb/rpg_items_pack/Chalice.glb",
+    "sha": "f3984ce5481a061e9565e39d32f1d9da3008e893",
+    "size": 22020,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chalice.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chalice.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f3984ce5481a061e9565e39d32f1d9da3008e893",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Chalice.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chalice.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f3984ce5481a061e9565e39d32f1d9da3008e893",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chalice.glb"
+    }
+  },
+  {
+    "name": "Chest_Closed.glb",
+    "path": "public/glb/rpg_items_pack/Chest_Closed.glb",
+    "sha": "544e63ca39289d37837dc4c88f7d716e8386511b",
+    "size": 96748,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chest_Closed.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chest_Closed.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/544e63ca39289d37837dc4c88f7d716e8386511b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Chest_Closed.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chest_Closed.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/544e63ca39289d37837dc4c88f7d716e8386511b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chest_Closed.glb"
+    }
+  },
+  {
+    "name": "Chest_Ingots.glb",
+    "path": "public/glb/rpg_items_pack/Chest_Ingots.glb",
+    "sha": "45c0703df9be03e813138a9b9cbbdabd3d5f85c4",
+    "size": 131208,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chest_Ingots.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chest_Ingots.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/45c0703df9be03e813138a9b9cbbdabd3d5f85c4",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Chest_Ingots.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chest_Ingots.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/45c0703df9be03e813138a9b9cbbdabd3d5f85c4",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chest_Ingots.glb"
+    }
+  },
+  {
+    "name": "Chest_Open.glb",
+    "path": "public/glb/rpg_items_pack/Chest_Open.glb",
+    "sha": "4b518fb1ad07c4d4abf0dac68d31a6473b0989ce",
+    "size": 95156,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chest_Open.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chest_Open.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4b518fb1ad07c4d4abf0dac68d31a6473b0989ce",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Chest_Open.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Chest_Open.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4b518fb1ad07c4d4abf0dac68d31a6473b0989ce",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Chest_Open.glb"
+    }
+  },
+  {
+    "name": "ChickenLeg.glb",
+    "path": "public/glb/rpg_items_pack/ChickenLeg.glb",
+    "sha": "e6b50a0cecd5359a4c2ee03b838f76e809935138",
+    "size": 18296,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/ChickenLeg.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/ChickenLeg.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e6b50a0cecd5359a4c2ee03b838f76e809935138",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/ChickenLeg.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/ChickenLeg.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e6b50a0cecd5359a4c2ee03b838f76e809935138",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/ChickenLeg.glb"
+    }
+  },
+  {
+    "name": "Coin.glb",
+    "path": "public/glb/rpg_items_pack/Coin.glb",
+    "sha": "47960d1081c5ed2941de450e63b6332d5122083a",
+    "size": 22304,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Coin.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Coin.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/47960d1081c5ed2941de450e63b6332d5122083a",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Coin.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Coin.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/47960d1081c5ed2941de450e63b6332d5122083a",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Coin.glb"
+    }
+  },
+  {
+    "name": "Coin_Skull.glb",
+    "path": "public/glb/rpg_items_pack/Coin_Skull.glb",
+    "sha": "28cbf96cc90e03b4c81bc3a8dc1b30c0b854cc26",
+    "size": 31200,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Coin_Skull.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Coin_Skull.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/28cbf96cc90e03b4c81bc3a8dc1b30c0b854cc26",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Coin_Skull.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Coin_Skull.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/28cbf96cc90e03b4c81bc3a8dc1b30c0b854cc26",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Coin_Skull.glb"
+    }
+  },
+  {
+    "name": "Coin_Star.glb",
+    "path": "public/glb/rpg_items_pack/Coin_Star.glb",
+    "sha": "4a9363116f7459cbfda4101b6fd2e46d75b130d1",
+    "size": 25292,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Coin_Star.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Coin_Star.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4a9363116f7459cbfda4101b6fd2e46d75b130d1",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Coin_Star.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Coin_Star.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4a9363116f7459cbfda4101b6fd2e46d75b130d1",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Coin_Star.glb"
+    }
+  },
+  {
+    "name": "Crown.glb",
+    "path": "public/glb/rpg_items_pack/Crown.glb",
+    "sha": "37ef28282d7cf20bb3c065c4c782a736544a0353",
+    "size": 33660,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crown.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crown.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/37ef28282d7cf20bb3c065c4c782a736544a0353",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crown.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crown.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/37ef28282d7cf20bb3c065c4c782a736544a0353",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crown.glb"
+    }
+  },
+  {
+    "name": "Crown2.glb",
+    "path": "public/glb/rpg_items_pack/Crown2.glb",
+    "sha": "f3c8a0274e006169a16c48be4e251f1c9c895f3e",
+    "size": 47620,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crown2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crown2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f3c8a0274e006169a16c48be4e251f1c9c895f3e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crown2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crown2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f3c8a0274e006169a16c48be4e251f1c9c895f3e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crown2.glb"
+    }
+  },
+  {
+    "name": "Crystal1.glb",
+    "path": "public/glb/rpg_items_pack/Crystal1.glb",
+    "sha": "2e873bebe1ccecef0c4099f3e9cdde3141abf75c",
+    "size": 5208,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2e873bebe1ccecef0c4099f3e9cdde3141abf75c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2e873bebe1ccecef0c4099f3e9cdde3141abf75c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal1.glb"
+    }
+  },
+  {
+    "name": "Crystal1_Damaged.glb",
+    "path": "public/glb/rpg_items_pack/Crystal1_Damaged.glb",
+    "sha": "49b37fa124cf2872aa6624c43028ee516cdd30af",
+    "size": 7972,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal1_Damaged.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal1_Damaged.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/49b37fa124cf2872aa6624c43028ee516cdd30af",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal1_Damaged.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal1_Damaged.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/49b37fa124cf2872aa6624c43028ee516cdd30af",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal1_Damaged.glb"
+    }
+  },
+  {
+    "name": "Crystal2.glb",
+    "path": "public/glb/rpg_items_pack/Crystal2.glb",
+    "sha": "e2bb4c16abbfa1d5e241d7f213c15e8730dee655",
+    "size": 10248,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e2bb4c16abbfa1d5e241d7f213c15e8730dee655",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e2bb4c16abbfa1d5e241d7f213c15e8730dee655",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal2.glb"
+    }
+  },
+  {
+    "name": "Crystal2_Damaged.glb",
+    "path": "public/glb/rpg_items_pack/Crystal2_Damaged.glb",
+    "sha": "40ab36dba7a82c1feeb8dbf765ad7c60b8f92776",
+    "size": 7312,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal2_Damaged.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal2_Damaged.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/40ab36dba7a82c1feeb8dbf765ad7c60b8f92776",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal2_Damaged.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal2_Damaged.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/40ab36dba7a82c1feeb8dbf765ad7c60b8f92776",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal2_Damaged.glb"
+    }
+  },
+  {
+    "name": "Crystal3.glb",
+    "path": "public/glb/rpg_items_pack/Crystal3.glb",
+    "sha": "99012b4ba800aa1187185f8b30334e0bb1962cee",
+    "size": 3084,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/99012b4ba800aa1187185f8b30334e0bb1962cee",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/99012b4ba800aa1187185f8b30334e0bb1962cee",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal3.glb"
+    }
+  },
+  {
+    "name": "Crystal3_Damaged.glb",
+    "path": "public/glb/rpg_items_pack/Crystal3_Damaged.glb",
+    "sha": "1e35f51367cf086310402822f0ab646c4843eab4",
+    "size": 8988,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal3_Damaged.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal3_Damaged.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1e35f51367cf086310402822f0ab646c4843eab4",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal3_Damaged.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal3_Damaged.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1e35f51367cf086310402822f0ab646c4843eab4",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal3_Damaged.glb"
+    }
+  },
+  {
+    "name": "Crystal4.glb",
+    "path": "public/glb/rpg_items_pack/Crystal4.glb",
+    "sha": "3abbf4ef2696346c332fdb144c9e37fd5dd3c81e",
+    "size": 4028,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal4.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal4.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3abbf4ef2696346c332fdb144c9e37fd5dd3c81e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal4.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal4.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3abbf4ef2696346c332fdb144c9e37fd5dd3c81e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal4.glb"
+    }
+  },
+  {
+    "name": "Crystal5.glb",
+    "path": "public/glb/rpg_items_pack/Crystal5.glb",
+    "sha": "48baea3c38f7e989367da805fdac50b03f9d9cb0",
+    "size": 2968,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal5.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal5.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/48baea3c38f7e989367da805fdac50b03f9d9cb0",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal5.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal5.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/48baea3c38f7e989367da805fdac50b03f9d9cb0",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal5.glb"
+    }
+  },
+  {
+    "name": "Crystal5_Damaged.glb",
+    "path": "public/glb/rpg_items_pack/Crystal5_Damaged.glb",
+    "sha": "d98344eb592b8d77e5dc86157d390354647169af",
+    "size": 6228,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal5_Damaged.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal5_Damaged.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/d98344eb592b8d77e5dc86157d390354647169af",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Crystal5_Damaged.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Crystal5_Damaged.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/d98344eb592b8d77e5dc86157d390354647169af",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Crystal5_Damaged.glb"
+    }
+  },
+  {
+    "name": "Dagger.glb",
+    "path": "public/glb/rpg_items_pack/Dagger.glb",
+    "sha": "a85368f456710b6ff8fb96d11075b35b016055ea",
+    "size": 42808,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dagger.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dagger.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a85368f456710b6ff8fb96d11075b35b016055ea",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Dagger.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dagger.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a85368f456710b6ff8fb96d11075b35b016055ea",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dagger.glb"
+    }
+  },
+  {
+    "name": "Dagger_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Dagger_Golden.glb",
+    "sha": "e5a44ed8937fa60f349873c588e671b1e071f942",
+    "size": 42824,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dagger_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dagger_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e5a44ed8937fa60f349873c588e671b1e071f942",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Dagger_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dagger_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e5a44ed8937fa60f349873c588e671b1e071f942",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dagger_Golden.glb"
+    }
+  },
+  {
+    "name": "Dart.glb",
+    "path": "public/glb/rpg_items_pack/Dart.glb",
+    "sha": "675665d49660ae061bc14ab8de10f524bc4a7265",
+    "size": 16836,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dart.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dart.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/675665d49660ae061bc14ab8de10f524bc4a7265",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Dart.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dart.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/675665d49660ae061bc14ab8de10f524bc4a7265",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dart.glb"
+    }
+  },
+  {
+    "name": "Dart_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Dart_Golden.glb",
+    "sha": "fabee0881651ebb3b67e3099f7500edfb35de40e",
+    "size": 14752,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dart_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dart_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fabee0881651ebb3b67e3099f7500edfb35de40e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Dart_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Dart_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fabee0881651ebb3b67e3099f7500edfb35de40e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Dart_Golden.glb"
+    }
+  },
+  {
+    "name": "FishBone.glb",
+    "path": "public/glb/rpg_items_pack/FishBone.glb",
+    "sha": "58cdfe687860ff380b2a464951daa0d21cdb721b",
+    "size": 33068,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/FishBone.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/FishBone.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/58cdfe687860ff380b2a464951daa0d21cdb721b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/FishBone.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/FishBone.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/58cdfe687860ff380b2a464951daa0d21cdb721b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/FishBone.glb"
+    }
+  },
+  {
+    "name": "Glove.glb",
+    "path": "public/glb/rpg_items_pack/Glove.glb",
+    "sha": "fe9eeed3cd81cb0ca82507f7a8d9338d91a7c881",
+    "size": 40796,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Glove.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Glove.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fe9eeed3cd81cb0ca82507f7a8d9338d91a7c881",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Glove.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Glove.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fe9eeed3cd81cb0ca82507f7a8d9338d91a7c881",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Glove.glb"
+    }
+  },
+  {
+    "name": "Gold_Ingots.glb",
+    "path": "public/glb/rpg_items_pack/Gold_Ingots.glb",
+    "sha": "8e7850dbe2e4bf894f80fc34d607bc82b5a639ad",
+    "size": 36696,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Gold_Ingots.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Gold_Ingots.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8e7850dbe2e4bf894f80fc34d607bc82b5a639ad",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Gold_Ingots.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Gold_Ingots.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8e7850dbe2e4bf894f80fc34d607bc82b5a639ad",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Gold_Ingots.glb"
+    }
+  },
+  {
+    "name": "Hammer_Double.glb",
+    "path": "public/glb/rpg_items_pack/Hammer_Double.glb",
+    "sha": "8f7b80dea6ac7c02158c44b2d1e723bb9d2955b7",
+    "size": 105920,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Hammer_Double.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Hammer_Double.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8f7b80dea6ac7c02158c44b2d1e723bb9d2955b7",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Hammer_Double.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Hammer_Double.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8f7b80dea6ac7c02158c44b2d1e723bb9d2955b7",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Hammer_Double.glb"
+    }
+  },
+  {
+    "name": "Hammer_Double_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Hammer_Double_Golden.glb",
+    "sha": "7c460c330d4db352dd5e85627593b34d6533b919",
+    "size": 105936,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Hammer_Double_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Hammer_Double_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7c460c330d4db352dd5e85627593b34d6533b919",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Hammer_Double_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Hammer_Double_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7c460c330d4db352dd5e85627593b34d6533b919",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Hammer_Double_Golden.glb"
+    }
+  },
+  {
+    "name": "Heart.glb",
+    "path": "public/glb/rpg_items_pack/Heart.glb",
+    "sha": "8ac68f52775ba90b4f18861a52cf97fbec4bda25",
+    "size": 32796,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Heart.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Heart.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8ac68f52775ba90b4f18861a52cf97fbec4bda25",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Heart.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Heart.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8ac68f52775ba90b4f18861a52cf97fbec4bda25",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Heart.glb"
+    }
+  },
+  {
+    "name": "Heart_Broken.glb",
+    "path": "public/glb/rpg_items_pack/Heart_Broken.glb",
+    "sha": "ce887aa0b310d8220fb21c50e90efabf47fdda75",
+    "size": 37708,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Heart_Broken.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Heart_Broken.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ce887aa0b310d8220fb21c50e90efabf47fdda75",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Heart_Broken.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Heart_Broken.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ce887aa0b310d8220fb21c50e90efabf47fdda75",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Heart_Broken.glb"
+    }
+  },
+  {
+    "name": "Heart_Half.glb",
+    "path": "public/glb/rpg_items_pack/Heart_Half.glb",
+    "sha": "f6e2af665d93e1f7c77a9316672f94eaf40a7588",
+    "size": 19676,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Heart_Half.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Heart_Half.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f6e2af665d93e1f7c77a9316672f94eaf40a7588",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Heart_Half.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Heart_Half.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f6e2af665d93e1f7c77a9316672f94eaf40a7588",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Heart_Half.glb"
+    }
+  },
+  {
+    "name": "Key1.glb",
+    "path": "public/glb/rpg_items_pack/Key1.glb",
+    "sha": "1905a2f6321f20d185eb71e532d4f19be8e366c6",
+    "size": 16980,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1905a2f6321f20d185eb71e532d4f19be8e366c6",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Key1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1905a2f6321f20d185eb71e532d4f19be8e366c6",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key1.glb"
+    }
+  },
+  {
+    "name": "Key2.glb",
+    "path": "public/glb/rpg_items_pack/Key2.glb",
+    "sha": "b797a45f02e45a0563a954d84ae666ed8297ad6d",
+    "size": 29200,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/b797a45f02e45a0563a954d84ae666ed8297ad6d",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Key2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/b797a45f02e45a0563a954d84ae666ed8297ad6d",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key2.glb"
+    }
+  },
+  {
+    "name": "Key3.glb",
+    "path": "public/glb/rpg_items_pack/Key3.glb",
+    "sha": "d1fa8451b1c819bc66f65d2d18bd3e8d3512fec2",
+    "size": 41732,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/d1fa8451b1c819bc66f65d2d18bd3e8d3512fec2",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Key3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/d1fa8451b1c819bc66f65d2d18bd3e8d3512fec2",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key3.glb"
+    }
+  },
+  {
+    "name": "Key4.glb",
+    "path": "public/glb/rpg_items_pack/Key4.glb",
+    "sha": "5d343a6f578db2f40d6e97d4f3a338a90dc4ab2d",
+    "size": 38800,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key4.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key4.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5d343a6f578db2f40d6e97d4f3a338a90dc4ab2d",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Key4.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Key4.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5d343a6f578db2f40d6e97d4f3a338a90dc4ab2d",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Key4.glb"
+    }
+  },
+  {
+    "name": "Mineral.glb",
+    "path": "public/glb/rpg_items_pack/Mineral.glb",
+    "sha": "984a545cceb5f23e7ff16999810fb68ce5c07337",
+    "size": 90384,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Mineral.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Mineral.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/984a545cceb5f23e7ff16999810fb68ce5c07337",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Mineral.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Mineral.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/984a545cceb5f23e7ff16999810fb68ce5c07337",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Mineral.glb"
+    }
+  },
+  {
+    "name": "Necklace1.glb",
+    "path": "public/glb/rpg_items_pack/Necklace1.glb",
+    "sha": "367c69aa9a0deaff9f23cffb7a42c0474d734a08",
+    "size": 59736,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Necklace1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Necklace1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/367c69aa9a0deaff9f23cffb7a42c0474d734a08",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Necklace1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Necklace1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/367c69aa9a0deaff9f23cffb7a42c0474d734a08",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Necklace1.glb"
+    }
+  },
+  {
+    "name": "Necklace2.glb",
+    "path": "public/glb/rpg_items_pack/Necklace2.glb",
+    "sha": "973588e105af5861319df0d9f2f5a7d2b96a246c",
+    "size": 48516,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Necklace2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Necklace2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/973588e105af5861319df0d9f2f5a7d2b96a246c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Necklace2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Necklace2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/973588e105af5861319df0d9f2f5a7d2b96a246c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Necklace2.glb"
+    }
+  },
+  {
+    "name": "Necklace3.glb",
+    "path": "public/glb/rpg_items_pack/Necklace3.glb",
+    "sha": "780d3a109b282f94bd79aa01e5029bbd4b754110",
+    "size": 61920,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Necklace3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Necklace3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/780d3a109b282f94bd79aa01e5029bbd4b754110",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Necklace3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Necklace3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/780d3a109b282f94bd79aa01e5029bbd4b754110",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Necklace3.glb"
+    }
+  },
+  {
+    "name": "Padlock.glb",
+    "path": "public/glb/rpg_items_pack/Padlock.glb",
+    "sha": "442fb46b0b755a4dbe793861d684153b935950a0",
+    "size": 33852,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Padlock.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Padlock.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/442fb46b0b755a4dbe793861d684153b935950a0",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Padlock.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Padlock.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/442fb46b0b755a4dbe793861d684153b935950a0",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Padlock.glb"
+    }
+  },
+  {
+    "name": "Parchment.glb",
+    "path": "public/glb/rpg_items_pack/Parchment.glb",
+    "sha": "1bb91579ba389d023b33743c92ebb7bba9221cd3",
+    "size": 33000,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Parchment.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Parchment.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1bb91579ba389d023b33743c92ebb7bba9221cd3",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Parchment.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Parchment.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1bb91579ba389d023b33743c92ebb7bba9221cd3",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Parchment.glb"
+    }
+  },
+  {
+    "name": "Potion10_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion10_Empty.glb",
+    "sha": "397fc8648665a3e0380ff5ee0d9a661a06a49ed3",
+    "size": 18716,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion10_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion10_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/397fc8648665a3e0380ff5ee0d9a661a06a49ed3",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion10_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion10_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/397fc8648665a3e0380ff5ee0d9a661a06a49ed3",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion10_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion10_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion10_Filled.glb",
+    "sha": "fd824f14d144ecd12b8bd4c5b22ff08a034d6833",
+    "size": 22044,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion10_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion10_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fd824f14d144ecd12b8bd4c5b22ff08a034d6833",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion10_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion10_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fd824f14d144ecd12b8bd4c5b22ff08a034d6833",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion10_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion11_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion11_Empty.glb",
+    "sha": "474254c73130ee371e5e568443183286c64dbbb7",
+    "size": 22076,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion11_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion11_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/474254c73130ee371e5e568443183286c64dbbb7",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion11_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion11_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/474254c73130ee371e5e568443183286c64dbbb7",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion11_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion11_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion11_Filled.glb",
+    "sha": "60a4abdbc81a3a97ce16aa9c6ba1f7a9a58eca62",
+    "size": 25408,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion11_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion11_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/60a4abdbc81a3a97ce16aa9c6ba1f7a9a58eca62",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion11_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion11_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/60a4abdbc81a3a97ce16aa9c6ba1f7a9a58eca62",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion11_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion1_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion1_Empty.glb",
+    "sha": "e0b3510408a4c29f3d05ae03daa8ff5d86b0d747",
+    "size": 32444,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion1_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion1_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e0b3510408a4c29f3d05ae03daa8ff5d86b0d747",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion1_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion1_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e0b3510408a4c29f3d05ae03daa8ff5d86b0d747",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion1_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion1_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion1_Filled.glb",
+    "sha": "7e2b9676afc0d607e78de0a55c075761ebad75e3",
+    "size": 37360,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion1_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion1_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7e2b9676afc0d607e78de0a55c075761ebad75e3",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion1_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion1_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/7e2b9676afc0d607e78de0a55c075761ebad75e3",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion1_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion2_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion2_Empty.glb",
+    "sha": "10b786fc1fabee5befba4d7ba17babb29b1d80d2",
+    "size": 31336,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion2_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion2_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/10b786fc1fabee5befba4d7ba17babb29b1d80d2",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion2_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion2_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/10b786fc1fabee5befba4d7ba17babb29b1d80d2",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion2_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion2_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion2_Filled.glb",
+    "sha": "1d623f8c95243189891be5eccd74293aaffca042",
+    "size": 37096,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion2_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion2_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1d623f8c95243189891be5eccd74293aaffca042",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion2_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion2_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1d623f8c95243189891be5eccd74293aaffca042",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion2_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion3_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion3_Empty.glb",
+    "sha": "c0c81a602302aa47b2cb83ef9c1db039a78302fe",
+    "size": 31340,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion3_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion3_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c0c81a602302aa47b2cb83ef9c1db039a78302fe",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion3_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion3_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c0c81a602302aa47b2cb83ef9c1db039a78302fe",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion3_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion3_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion3_Filled.glb",
+    "sha": "0e9be28d9ad460c93b05b5f9e064c63ca43f2461",
+    "size": 39980,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion3_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion3_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0e9be28d9ad460c93b05b5f9e064c63ca43f2461",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion3_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion3_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0e9be28d9ad460c93b05b5f9e064c63ca43f2461",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion3_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion4_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion4_Empty.glb",
+    "sha": "8757e2ecd03be18627a903f14d567c40a930f118",
+    "size": 31340,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion4_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion4_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8757e2ecd03be18627a903f14d567c40a930f118",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion4_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion4_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8757e2ecd03be18627a903f14d567c40a930f118",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion4_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion4_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion4_Filled.glb",
+    "sha": "4b7e4388e8ddb3513726fbae5df34f6337034967",
+    "size": 37676,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion4_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion4_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4b7e4388e8ddb3513726fbae5df34f6337034967",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion4_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion4_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4b7e4388e8ddb3513726fbae5df34f6337034967",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion4_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion5_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion5_Empty.glb",
+    "sha": "5e1151aa26f15ee242b518cf7d5f24a219f2eeea",
+    "size": 35952,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion5_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion5_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5e1151aa26f15ee242b518cf7d5f24a219f2eeea",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion5_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion5_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5e1151aa26f15ee242b518cf7d5f24a219f2eeea",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion5_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion5_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion5_Filled.glb",
+    "sha": "3cd105536ef170967ba3cd401a390d4e727c3cdb",
+    "size": 42480,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion5_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion5_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3cd105536ef170967ba3cd401a390d4e727c3cdb",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion5_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion5_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3cd105536ef170967ba3cd401a390d4e727c3cdb",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion5_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion6_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion6_Empty.glb",
+    "sha": "87afac1b8dc850fdfb0ee3336b5ec9bcb9d5c6fc",
+    "size": 45176,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion6_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion6_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/87afac1b8dc850fdfb0ee3336b5ec9bcb9d5c6fc",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion6_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion6_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/87afac1b8dc850fdfb0ee3336b5ec9bcb9d5c6fc",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion6_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion6_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion6_Filled.glb",
+    "sha": "590e405a1cc2394b22977cabb4883d4baf0e9232",
+    "size": 56116,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion6_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion6_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/590e405a1cc2394b22977cabb4883d4baf0e9232",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion6_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion6_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/590e405a1cc2394b22977cabb4883d4baf0e9232",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion6_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion7_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion7_Empty.glb",
+    "sha": "bdc70d918b2adac12543dcec77401f1b986f0b8a",
+    "size": 26736,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion7_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion7_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/bdc70d918b2adac12543dcec77401f1b986f0b8a",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion7_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion7_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/bdc70d918b2adac12543dcec77401f1b986f0b8a",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion7_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion7_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion7_Filled.glb",
+    "sha": "69d9f27fe9e4afcbcdd31406c83add9b19bf8fdb",
+    "size": 34224,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion7_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion7_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/69d9f27fe9e4afcbcdd31406c83add9b19bf8fdb",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion7_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion7_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/69d9f27fe9e4afcbcdd31406c83add9b19bf8fdb",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion7_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion8_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion8_Empty.glb",
+    "sha": "ee569fdbb92a3a70e481b18cba55aae3e135b24e",
+    "size": 26736,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion8_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion8_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ee569fdbb92a3a70e481b18cba55aae3e135b24e",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion8_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion8_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ee569fdbb92a3a70e481b18cba55aae3e135b24e",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion8_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion8_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion8_Filled.glb",
+    "sha": "ec35f244e1585170b87f85c3c2503f8658c28306",
+    "size": 34228,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion8_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion8_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ec35f244e1585170b87f85c3c2503f8658c28306",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion8_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion8_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ec35f244e1585170b87f85c3c2503f8658c28306",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion8_Filled.glb"
+    }
+  },
+  {
+    "name": "Potion9_Empty.glb",
+    "path": "public/glb/rpg_items_pack/Potion9_Empty.glb",
+    "sha": "3b939347e81b1eda1aabfd1c749fd3e5fb8a0290",
+    "size": 29332,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion9_Empty.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion9_Empty.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3b939347e81b1eda1aabfd1c749fd3e5fb8a0290",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion9_Empty.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion9_Empty.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3b939347e81b1eda1aabfd1c749fd3e5fb8a0290",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion9_Empty.glb"
+    }
+  },
+  {
+    "name": "Potion9_Filled.glb",
+    "path": "public/glb/rpg_items_pack/Potion9_Filled.glb",
+    "sha": "fb6a16677ac051de89bbba6d8000dbcb9001ef59",
+    "size": 34124,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion9_Filled.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion9_Filled.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fb6a16677ac051de89bbba6d8000dbcb9001ef59",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Potion9_Filled.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Potion9_Filled.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/fb6a16677ac051de89bbba6d8000dbcb9001ef59",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Potion9_Filled.glb"
+    }
+  },
+  {
+    "name": "Pouch.glb",
+    "path": "public/glb/rpg_items_pack/Pouch.glb",
+    "sha": "42236ef249a065ea1366c755b400649c131a2cd0",
+    "size": 24804,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Pouch.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Pouch.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/42236ef249a065ea1366c755b400649c131a2cd0",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Pouch.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Pouch.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/42236ef249a065ea1366c755b400649c131a2cd0",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Pouch.glb"
+    }
+  },
+  {
+    "name": "Ring1.glb",
+    "path": "public/glb/rpg_items_pack/Ring1.glb",
+    "sha": "c43c20fe20da6b8201e51952370321c49668b74b",
+    "size": 12372,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c43c20fe20da6b8201e51952370321c49668b74b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c43c20fe20da6b8201e51952370321c49668b74b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring1.glb"
+    }
+  },
+  {
+    "name": "Ring2.glb",
+    "path": "public/glb/rpg_items_pack/Ring2.glb",
+    "sha": "8c6dcc3505427746187cd28f69522af7afd3441c",
+    "size": 13308,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8c6dcc3505427746187cd28f69522af7afd3441c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8c6dcc3505427746187cd28f69522af7afd3441c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring2.glb"
+    }
+  },
+  {
+    "name": "Ring3.glb",
+    "path": "public/glb/rpg_items_pack/Ring3.glb",
+    "sha": "787dcaf92c15bc0b619e938dbaaa305ff37843b8",
+    "size": 17364,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/787dcaf92c15bc0b619e938dbaaa305ff37843b8",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/787dcaf92c15bc0b619e938dbaaa305ff37843b8",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring3.glb"
+    }
+  },
+  {
+    "name": "Ring4.glb",
+    "path": "public/glb/rpg_items_pack/Ring4.glb",
+    "sha": "8d5e8b77b8599de02bd2da65ec06eec9f18239e9",
+    "size": 30364,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring4.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring4.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8d5e8b77b8599de02bd2da65ec06eec9f18239e9",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring4.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring4.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8d5e8b77b8599de02bd2da65ec06eec9f18239e9",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring4.glb"
+    }
+  },
+  {
+    "name": "Ring5.glb",
+    "path": "public/glb/rpg_items_pack/Ring5.glb",
+    "sha": "68ed9f05f3c2f0af34b262be9c110d55ba790368",
+    "size": 30500,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring5.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring5.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/68ed9f05f3c2f0af34b262be9c110d55ba790368",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring5.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring5.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/68ed9f05f3c2f0af34b262be9c110d55ba790368",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring5.glb"
+    }
+  },
+  {
+    "name": "Ring6.glb",
+    "path": "public/glb/rpg_items_pack/Ring6.glb",
+    "sha": "3f2ab8fb137b598d3095ecaca5513b27eca12531",
+    "size": 20304,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring6.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring6.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3f2ab8fb137b598d3095ecaca5513b27eca12531",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring6.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring6.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3f2ab8fb137b598d3095ecaca5513b27eca12531",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring6.glb"
+    }
+  },
+  {
+    "name": "Ring7.glb",
+    "path": "public/glb/rpg_items_pack/Ring7.glb",
+    "sha": "263da28f31e12882654883e3783f112343417233",
+    "size": 17324,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring7.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring7.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/263da28f31e12882654883e3783f112343417233",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Ring7.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Ring7.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/263da28f31e12882654883e3783f112343417233",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Ring7.glb"
+    }
+  },
+  {
+    "name": "Scroll.glb",
+    "path": "public/glb/rpg_items_pack/Scroll.glb",
+    "sha": "6791ee1e013807c462f2e632648ab2fc9aeac5af",
+    "size": 54328,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Scroll.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Scroll.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6791ee1e013807c462f2e632648ab2fc9aeac5af",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Scroll.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Scroll.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6791ee1e013807c462f2e632648ab2fc9aeac5af",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Scroll.glb"
+    }
+  },
+  {
+    "name": "Skull.glb",
+    "path": "public/glb/rpg_items_pack/Skull.glb",
+    "sha": "9cde55e1556fb19c7ee76e4886ef8d55ddf1b106",
+    "size": 20408,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Skull.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Skull.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/9cde55e1556fb19c7ee76e4886ef8d55ddf1b106",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Skull.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Skull.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/9cde55e1556fb19c7ee76e4886ef8d55ddf1b106",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Skull.glb"
+    }
+  },
+  {
+    "name": "Skull2.glb",
+    "path": "public/glb/rpg_items_pack/Skull2.glb",
+    "sha": "0f37ae56907caa56bb17252bdac1c1e76b36e500",
+    "size": 91552,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Skull2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Skull2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0f37ae56907caa56bb17252bdac1c1e76b36e500",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Skull2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Skull2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0f37ae56907caa56bb17252bdac1c1e76b36e500",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Skull2.glb"
+    }
+  },
+  {
+    "name": "Snowflake1.glb",
+    "path": "public/glb/rpg_items_pack/Snowflake1.glb",
+    "sha": "ef8a807c2dd5f59ccc3933cbf016d952c2d12223",
+    "size": 37396,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Snowflake1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Snowflake1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ef8a807c2dd5f59ccc3933cbf016d952c2d12223",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Snowflake1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Snowflake1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ef8a807c2dd5f59ccc3933cbf016d952c2d12223",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Snowflake1.glb"
+    }
+  },
+  {
+    "name": "Snowflake2.glb",
+    "path": "public/glb/rpg_items_pack/Snowflake2.glb",
+    "sha": "19731958874bf03da3e3c8eb445b564b9580f1fc",
+    "size": 22032,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Snowflake2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Snowflake2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/19731958874bf03da3e3c8eb445b564b9580f1fc",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Snowflake2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Snowflake2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/19731958874bf03da3e3c8eb445b564b9580f1fc",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Snowflake2.glb"
+    }
+  },
+  {
+    "name": "Snowflake3.glb",
+    "path": "public/glb/rpg_items_pack/Snowflake3.glb",
+    "sha": "b38cc0ed2c803c736d3de5fef975d1ae19fdbbbe",
+    "size": 82924,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Snowflake3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Snowflake3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/b38cc0ed2c803c736d3de5fef975d1ae19fdbbbe",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Snowflake3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Snowflake3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/b38cc0ed2c803c736d3de5fef975d1ae19fdbbbe",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Snowflake3.glb"
+    }
+  },
+  {
+    "name": "Star.glb",
+    "path": "public/glb/rpg_items_pack/Star.glb",
+    "sha": "476f3416bc8188be82d2e23cdd661102aeb208c1",
+    "size": 13564,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Star.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Star.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/476f3416bc8188be82d2e23cdd661102aeb208c1",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Star.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Star.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/476f3416bc8188be82d2e23cdd661102aeb208c1",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Star.glb"
+    }
+  },
+  {
+    "name": "Sword.glb",
+    "path": "public/glb/rpg_items_pack/Sword.glb",
+    "sha": "add0a9400c6f3790b1b1df831467e9803970e199",
+    "size": 47240,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/add0a9400c6f3790b1b1df831467e9803970e199",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Sword.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/add0a9400c6f3790b1b1df831467e9803970e199",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword.glb"
+    }
+  },
+  {
+    "name": "Sword_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Sword_Golden.glb",
+    "sha": "e2f05acff247697158455ed32074c0682a160bd1",
+    "size": 47252,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e2f05acff247697158455ed32074c0682a160bd1",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Sword_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e2f05acff247697158455ed32074c0682a160bd1",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword_Golden.glb"
+    }
+  },
+  {
+    "name": "Sword_big.glb",
+    "path": "public/glb/rpg_items_pack/Sword_big.glb",
+    "sha": "37609dd2aeaadc969673d0cf11c9f2fd27280bf4",
+    "size": 50036,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword_big.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword_big.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/37609dd2aeaadc969673d0cf11c9f2fd27280bf4",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Sword_big.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword_big.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/37609dd2aeaadc969673d0cf11c9f2fd27280bf4",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword_big.glb"
+    }
+  },
+  {
+    "name": "Sword_big_Golden.glb",
+    "path": "public/glb/rpg_items_pack/Sword_big_Golden.glb",
+    "sha": "e7046ffb4be64852f3d5686d12ed74a03b63c508",
+    "size": 50048,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword_big_Golden.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword_big_Golden.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e7046ffb4be64852f3d5686d12ed74a03b63c508",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/rpg_items_pack/Sword_big_Golden.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/rpg_items_pack/Sword_big_Golden.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e7046ffb4be64852f3d5686d12ed74a03b63c508",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/rpg_items_pack/Sword_big_Golden.glb"
+    }
+  }
+]

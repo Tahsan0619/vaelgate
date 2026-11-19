@@ -1,0 +1,4 @@
+node_modules/
+dist/game.js
+*.log
+.DS_Store

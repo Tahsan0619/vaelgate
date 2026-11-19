@@ -1,0 +1,658 @@
+[
+  {
+    "name": "Barrel.glb",
+    "path": "public/glb/modular_dungeon_pack/Barrel.glb",
+    "sha": "03839c0829590e5e41d3ab04f923ccf84b67ac09",
+    "size": 27480,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Barrel.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Barrel.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/03839c0829590e5e41d3ab04f923ccf84b67ac09",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Barrel.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Barrel.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/03839c0829590e5e41d3ab04f923ccf84b67ac09",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Barrel.glb"
+    }
+  },
+  {
+    "name": "Bars.glb",
+    "path": "public/glb/modular_dungeon_pack/Bars.glb",
+    "sha": "d7a5d1ad5a2e4f8d502f71380d1b0e3a5eb787df",
+    "size": 20888,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Bars.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Bars.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/d7a5d1ad5a2e4f8d502f71380d1b0e3a5eb787df",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Bars.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Bars.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/d7a5d1ad5a2e4f8d502f71380d1b0e3a5eb787df",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Bars.glb"
+    }
+  },
+  {
+    "name": "Bones.glb",
+    "path": "public/glb/modular_dungeon_pack/Bones.glb",
+    "sha": "9b00129980922f7ce571c9a6a1dcac0ba6855dac",
+    "size": 43868,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Bones.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Bones.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/9b00129980922f7ce571c9a6a1dcac0ba6855dac",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Bones.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Bones.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/9b00129980922f7ce571c9a6a1dcac0ba6855dac",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Bones.glb"
+    }
+  },
+  {
+    "name": "Bones2.glb",
+    "path": "public/glb/modular_dungeon_pack/Bones2.glb",
+    "sha": "197643f68bcc3e68a2d5abb9f930ad415e3e873a",
+    "size": 32420,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Bones2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Bones2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/197643f68bcc3e68a2d5abb9f930ad415e3e873a",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Bones2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Bones2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/197643f68bcc3e68a2d5abb9f930ad415e3e873a",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Bones2.glb"
+    }
+  },
+  {
+    "name": "Book2.glb",
+    "path": "public/glb/modular_dungeon_pack/Book2.glb",
+    "sha": "f8cefeb1b4058ffc2d4c2b0d7112dff5dbca9ab6",
+    "size": 43780,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Book2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Book2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f8cefeb1b4058ffc2d4c2b0d7112dff5dbca9ab6",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Book2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Book2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f8cefeb1b4058ffc2d4c2b0d7112dff5dbca9ab6",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Book2.glb"
+    }
+  },
+  {
+    "name": "Book3.glb",
+    "path": "public/glb/modular_dungeon_pack/Book3.glb",
+    "sha": "ac6db1ec9d411fb51f443e6f736097c2c766faf5",
+    "size": 50432,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Book3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Book3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ac6db1ec9d411fb51f443e6f736097c2c766faf5",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Book3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Book3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ac6db1ec9d411fb51f443e6f736097c2c766faf5",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Book3.glb"
+    }
+  },
+  {
+    "name": "Book_Open.glb",
+    "path": "public/glb/modular_dungeon_pack/Book_Open.glb",
+    "sha": "36cfe57f65d4f8cc2019a90bbfb397ea377b679b",
+    "size": 37320,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Book_Open.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Book_Open.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/36cfe57f65d4f8cc2019a90bbfb397ea377b679b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Book_Open.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Book_Open.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/36cfe57f65d4f8cc2019a90bbfb397ea377b679b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Book_Open.glb"
+    }
+  },
+  {
+    "name": "Candelabrum.glb",
+    "path": "public/glb/modular_dungeon_pack/Candelabrum.glb",
+    "sha": "6fead5fb359d94392e6e77737c45aee5de994e6d",
+    "size": 37940,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Candelabrum.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Candelabrum.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6fead5fb359d94392e6e77737c45aee5de994e6d",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Candelabrum.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Candelabrum.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6fead5fb359d94392e6e77737c45aee5de994e6d",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Candelabrum.glb"
+    }
+  },
+  {
+    "name": "Candelabrum_tall.glb",
+    "path": "public/glb/modular_dungeon_pack/Candelabrum_tall.glb",
+    "sha": "50e08fc155f4d2205b4d2ef65e59d7ae833e7f9f",
+    "size": 57008,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Candelabrum_tall.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Candelabrum_tall.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/50e08fc155f4d2205b4d2ef65e59d7ae833e7f9f",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Candelabrum_tall.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Candelabrum_tall.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/50e08fc155f4d2205b4d2ef65e59d7ae833e7f9f",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Candelabrum_tall.glb"
+    }
+  },
+  {
+    "name": "Candle.glb",
+    "path": "public/glb/modular_dungeon_pack/Candle.glb",
+    "sha": "10438afd74950d155e1a9a27ad44433fa3229198",
+    "size": 18376,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Candle.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Candle.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/10438afd74950d155e1a9a27ad44433fa3229198",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Candle.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Candle.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/10438afd74950d155e1a9a27ad44433fa3229198",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Candle.glb"
+    }
+  },
+  {
+    "name": "Carpet.glb",
+    "path": "public/glb/modular_dungeon_pack/Carpet.glb",
+    "sha": "6d772f77bbcb4ecdb331caee1c669d5fe2cdd745",
+    "size": 10796,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Carpet.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Carpet.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6d772f77bbcb4ecdb331caee1c669d5fe2cdd745",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Carpet.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Carpet.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6d772f77bbcb4ecdb331caee1c669d5fe2cdd745",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Carpet.glb"
+    }
+  },
+  {
+    "name": "Chest.glb",
+    "path": "public/glb/modular_dungeon_pack/Chest.glb",
+    "sha": "ac7cfcf12947fbce7796e97da148b03da9b4ad94",
+    "size": 23436,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Chest.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Chest.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ac7cfcf12947fbce7796e97da148b03da9b4ad94",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Chest.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Chest.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/ac7cfcf12947fbce7796e97da148b03da9b4ad94",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Chest.glb"
+    }
+  },
+  {
+    "name": "Chest_gold.glb",
+    "path": "public/glb/modular_dungeon_pack/Chest_gold.glb",
+    "sha": "f9a8e5a1d9e9ad2b1032a454843cf72e76df3025",
+    "size": 29924,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Chest_gold.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Chest_gold.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f9a8e5a1d9e9ad2b1032a454843cf72e76df3025",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Chest_gold.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Chest_gold.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f9a8e5a1d9e9ad2b1032a454843cf72e76df3025",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Chest_gold.glb"
+    }
+  },
+  {
+    "name": "Column.glb",
+    "path": "public/glb/modular_dungeon_pack/Column.glb",
+    "sha": "f5a83357cb4505431f72ae236ae7fb9f84d4ee3c",
+    "size": 18272,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Column.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Column.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f5a83357cb4505431f72ae236ae7fb9f84d4ee3c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Column.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Column.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f5a83357cb4505431f72ae236ae7fb9f84d4ee3c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Column.glb"
+    }
+  },
+  {
+    "name": "Column_Broken.glb",
+    "path": "public/glb/modular_dungeon_pack/Column_Broken.glb",
+    "sha": "6c838cd3f977f76403c5d53fc0f53ace30d1fef3",
+    "size": 9064,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Column_Broken.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Column_Broken.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6c838cd3f977f76403c5d53fc0f53ace30d1fef3",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Column_Broken.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Column_Broken.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/6c838cd3f977f76403c5d53fc0f53ace30d1fef3",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Column_Broken.glb"
+    }
+  },
+  {
+    "name": "Column_Broken2.glb",
+    "path": "public/glb/modular_dungeon_pack/Column_Broken2.glb",
+    "sha": "53f6dfd8d44778fec74d4a96b919e9c15211f6f7",
+    "size": 10364,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Column_Broken2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Column_Broken2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/53f6dfd8d44778fec74d4a96b919e9c15211f6f7",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Column_Broken2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Column_Broken2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/53f6dfd8d44778fec74d4a96b919e9c15211f6f7",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Column_Broken2.glb"
+    }
+  },
+  {
+    "name": "Entrance.glb",
+    "path": "public/glb/modular_dungeon_pack/Entrance.glb",
+    "sha": "4935bf4f60368eb72706a62e0fdaa5ae29328241",
+    "size": 7320,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Entrance.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Entrance.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4935bf4f60368eb72706a62e0fdaa5ae29328241",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Entrance.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Entrance.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/4935bf4f60368eb72706a62e0fdaa5ae29328241",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Entrance.glb"
+    }
+  },
+  {
+    "name": "Entrance2.glb",
+    "path": "public/glb/modular_dungeon_pack/Entrance2.glb",
+    "sha": "555ba5fa880d3bbf121bd7af5451f0cdf48cf84b",
+    "size": 24520,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Entrance2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Entrance2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/555ba5fa880d3bbf121bd7af5451f0cdf48cf84b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Entrance2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Entrance2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/555ba5fa880d3bbf121bd7af5451f0cdf48cf84b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Entrance2.glb"
+    }
+  },
+  {
+    "name": "ModularColumn_bottom.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularColumn_bottom.glb",
+    "sha": "48979629adfbb4963d3d35e5280257daf7bfc8ed",
+    "size": 7612,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularColumn_bottom.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularColumn_bottom.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/48979629adfbb4963d3d35e5280257daf7bfc8ed",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularColumn_bottom.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularColumn_bottom.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/48979629adfbb4963d3d35e5280257daf7bfc8ed",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularColumn_bottom.glb"
+    }
+  },
+  {
+    "name": "ModularColumn_middle.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularColumn_middle.glb",
+    "sha": "2cb325663938ae60933c0ddc6bb2e6d1ba813657",
+    "size": 8472,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularColumn_middle.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularColumn_middle.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2cb325663938ae60933c0ddc6bb2e6d1ba813657",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularColumn_middle.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularColumn_middle.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/2cb325663938ae60933c0ddc6bb2e6d1ba813657",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularColumn_middle.glb"
+    }
+  },
+  {
+    "name": "ModularColumn_top.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularColumn_top.glb",
+    "sha": "0c924fe1b05cb4fdd3c2796195abd656f5164bcf",
+    "size": 7604,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularColumn_top.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularColumn_top.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0c924fe1b05cb4fdd3c2796195abd656f5164bcf",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularColumn_top.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularColumn_top.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0c924fe1b05cb4fdd3c2796195abd656f5164bcf",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularColumn_top.glb"
+    }
+  },
+  {
+    "name": "ModularFloor.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularFloor.glb",
+    "sha": "832f1fdec33c889673872c757b9a881980d53e82",
+    "size": 17604,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularFloor.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularFloor.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/832f1fdec33c889673872c757b9a881980d53e82",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularFloor.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularFloor.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/832f1fdec33c889673872c757b9a881980d53e82",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularFloor.glb"
+    }
+  },
+  {
+    "name": "ModularStoneWall.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularStoneWall.glb",
+    "sha": "5131a5562cddc860c37d7581b9c6662eb749ceb9",
+    "size": 27456,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularStoneWall.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularStoneWall.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5131a5562cddc860c37d7581b9c6662eb749ceb9",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularStoneWall.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularStoneWall.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/5131a5562cddc860c37d7581b9c6662eb749ceb9",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularStoneWall.glb"
+    }
+  },
+  {
+    "name": "ModularStoneWall_EntranceTop.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularStoneWall_EntranceTop.glb",
+    "sha": "a3fb54af21b229acfe7958a790f4a035f19ada62",
+    "size": 17356,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularStoneWall_EntranceTop.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularStoneWall_EntranceTop.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a3fb54af21b229acfe7958a790f4a035f19ada62",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularStoneWall_EntranceTop.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularStoneWall_EntranceTop.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a3fb54af21b229acfe7958a790f4a035f19ada62",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularStoneWall_EntranceTop.glb"
+    }
+  },
+  {
+    "name": "ModularStoneWall_top.glb",
+    "path": "public/glb/modular_dungeon_pack/ModularStoneWall_top.glb",
+    "sha": "eda1682e48f72b40a74691feb34665aa5d4f47ff",
+    "size": 32416,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularStoneWall_top.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularStoneWall_top.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/eda1682e48f72b40a74691feb34665aa5d4f47ff",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/ModularStoneWall_top.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/ModularStoneWall_top.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/eda1682e48f72b40a74691feb34665aa5d4f47ff",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/ModularStoneWall_top.glb"
+    }
+  },
+  {
+    "name": "Potion.glb",
+    "path": "public/glb/modular_dungeon_pack/Potion.glb",
+    "sha": "0308b5dc06df771c4c61df20c7afee7496774b6c",
+    "size": 26560,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0308b5dc06df771c4c61df20c7afee7496774b6c",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Potion.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/0308b5dc06df771c4c61df20c7afee7496774b6c",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion.glb"
+    }
+  },
+  {
+    "name": "Potion2.glb",
+    "path": "public/glb/modular_dungeon_pack/Potion2.glb",
+    "sha": "efe0f1aeca78416c0295ff9a509702830d410ee5",
+    "size": 19736,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/efe0f1aeca78416c0295ff9a509702830d410ee5",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Potion2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/efe0f1aeca78416c0295ff9a509702830d410ee5",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion2.glb"
+    }
+  },
+  {
+    "name": "Potion3.glb",
+    "path": "public/glb/modular_dungeon_pack/Potion3.glb",
+    "sha": "e5c87ae737c07309820ff21f8f2a4dcd854780f5",
+    "size": 28156,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e5c87ae737c07309820ff21f8f2a4dcd854780f5",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Potion3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/e5c87ae737c07309820ff21f8f2a4dcd854780f5",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion3.glb"
+    }
+  },
+  {
+    "name": "Potion4.glb",
+    "path": "public/glb/modular_dungeon_pack/Potion4.glb",
+    "sha": "52c144a83322de05ab73a69b9c2f9b23669bd040",
+    "size": 15156,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion4.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion4.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/52c144a83322de05ab73a69b9c2f9b23669bd040",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Potion4.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion4.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/52c144a83322de05ab73a69b9c2f9b23669bd040",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion4.glb"
+    }
+  },
+  {
+    "name": "Potion5.glb",
+    "path": "public/glb/modular_dungeon_pack/Potion5.glb",
+    "sha": "447be14665ffbe1c308bec26d90f7f4218ed2dd5",
+    "size": 12412,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion5.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion5.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/447be14665ffbe1c308bec26d90f7f4218ed2dd5",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Potion5.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion5.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/447be14665ffbe1c308bec26d90f7f4218ed2dd5",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion5.glb"
+    }
+  },
+  {
+    "name": "Potion6.glb",
+    "path": "public/glb/modular_dungeon_pack/Potion6.glb",
+    "sha": "f214127466b21f3f4e5b2bba042f3cc5e611a345",
+    "size": 18412,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion6.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion6.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f214127466b21f3f4e5b2bba042f3cc5e611a345",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Potion6.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Potion6.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f214127466b21f3f4e5b2bba042f3cc5e611a345",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Potion6.glb"
+    }
+  },
+  {
+    "name": "Rock1.glb",
+    "path": "public/glb/modular_dungeon_pack/Rock1.glb",
+    "sha": "c0202cd66b68db1e11de3607b9c35e5a6386e9af",
+    "size": 3548,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock1.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock1.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c0202cd66b68db1e11de3607b9c35e5a6386e9af",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Rock1.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock1.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/c0202cd66b68db1e11de3607b9c35e5a6386e9af",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock1.glb"
+    }
+  },
+  {
+    "name": "Rock2.glb",
+    "path": "public/glb/modular_dungeon_pack/Rock2.glb",
+    "sha": "3b3d8e71fd53b0da72842812e8fa0a25a6427f7b",
+    "size": 3244,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock2.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock2.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3b3d8e71fd53b0da72842812e8fa0a25a6427f7b",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Rock2.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock2.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/3b3d8e71fd53b0da72842812e8fa0a25a6427f7b",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock2.glb"
+    }
+  },
+  {
+    "name": "Rock3.glb",
+    "path": "public/glb/modular_dungeon_pack/Rock3.glb",
+    "sha": "918786aaa7a24b83752b488833867c1b0892bf71",
+    "size": 3676,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock3.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock3.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/918786aaa7a24b83752b488833867c1b0892bf71",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Rock3.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock3.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/918786aaa7a24b83752b488833867c1b0892bf71",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock3.glb"
+    }
+  },
+  {
+    "name": "Rock4.glb",
+    "path": "public/glb/modular_dungeon_pack/Rock4.glb",
+    "sha": "70324207e30baba73eb4ffe8ce733792420bacd8",
+    "size": 3244,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock4.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock4.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/70324207e30baba73eb4ffe8ce733792420bacd8",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Rock4.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock4.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/70324207e30baba73eb4ffe8ce733792420bacd8",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock4.glb"
+    }
+  },
+  {
+    "name": "Rock5.glb",
+    "path": "public/glb/modular_dungeon_pack/Rock5.glb",
+    "sha": "98ac17e42ef2251b0a0788ec4e11c0cdc6616d16",
+    "size": 2304,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock5.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock5.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/98ac17e42ef2251b0a0788ec4e11c0cdc6616d16",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Rock5.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Rock5.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/98ac17e42ef2251b0a0788ec4e11c0cdc6616d16",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Rock5.glb"
+    }
+  },
+  {
+    "name": "Stairs.glb",
+    "path": "public/glb/modular_dungeon_pack/Stairs.glb",
+    "sha": "8cf9b626005f5d14c15bba1557db48d4b3320cf4",
+    "size": 8744,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Stairs.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Stairs.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8cf9b626005f5d14c15bba1557db48d4b3320cf4",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Stairs.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Stairs.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/8cf9b626005f5d14c15bba1557db48d4b3320cf4",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Stairs.glb"
+    }
+  },
+  {
+    "name": "Torch.glb",
+    "path": "public/glb/modular_dungeon_pack/Torch.glb",
+    "sha": "1dc1abafb32b73131b95fbe54118631fd626da78",
+    "size": 32952,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Torch.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Torch.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1dc1abafb32b73131b95fbe54118631fd626da78",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Torch.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Torch.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1dc1abafb32b73131b95fbe54118631fd626da78",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Torch.glb"
+    }
+  },
+  {
+    "name": "Torch_wall.glb",
+    "path": "public/glb/modular_dungeon_pack/Torch_wall.glb",
+    "sha": "1ae5250996e974a738d4af3db58ccdc1af84a9ef",
+    "size": 34988,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Torch_wall.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Torch_wall.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1ae5250996e974a738d4af3db58ccdc1af84a9ef",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Torch_wall.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Torch_wall.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/1ae5250996e974a738d4af3db58ccdc1af84a9ef",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Torch_wall.glb"
+    }
+  },
+  {
+    "name": "WallRocks.glb",
+    "path": "public/glb/modular_dungeon_pack/WallRocks.glb",
+    "sha": "f4c0f1b292161eb1d4b1bf76d43f599976e22428",
+    "size": 25896,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/WallRocks.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/WallRocks.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f4c0f1b292161eb1d4b1bf76d43f599976e22428",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/WallRocks.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/WallRocks.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/f4c0f1b292161eb1d4b1bf76d43f599976e22428",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/WallRocks.glb"
+    }
+  },
+  {
+    "name": "Window.glb",
+    "path": "public/glb/modular_dungeon_pack/Window.glb",
+    "sha": "a8dbc48192f1beef7bd4317710e6adff05188c2a",
+    "size": 18432,
+    "url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Window.glb?ref=main",
+    "html_url": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Window.glb",
+    "git_url": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a8dbc48192f1beef7bd4317710e6adff05188c2a",
+    "download_url": "https://raw.githubusercontent.com/trebeljahr/quaternius-showcase/main/public/glb/modular_dungeon_pack/Window.glb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/trebeljahr/quaternius-showcase/contents/public/glb/modular_dungeon_pack/Window.glb?ref=main",
+      "git": "https://api.github.com/repos/trebeljahr/quaternius-showcase/git/blobs/a8dbc48192f1beef7bd4317710e6adff05188c2a",
+      "html": "https://github.com/trebeljahr/quaternius-showcase/blob/main/public/glb/modular_dungeon_pack/Window.glb"
+    }
+  }
+]
